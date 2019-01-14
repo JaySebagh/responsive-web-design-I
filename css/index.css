@@ -167,10 +167,12 @@ h1, h2, h3, h4, h5 {
         flex-direction: column-reverse;
     }
 
+    .main-container {
+        margin-top: 50px;
+    }
+
     .nav-menu a {
-        padding-left: 0;
-        padding-bottom: 0;
-        width: 160px;
+        padding: 10px 35px 10px 35px;
     }
 
     .circle-logo {
