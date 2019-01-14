@@ -158,9 +158,21 @@ h1, h2, h3, h4, h5 {
 /* responsive css */
 
 @media (max-width: 800px) {
+    .header-container {
+        flex-direction: column-reverse;
+    }
 
+    .nav-menu a {
+        padding-left: 0;
+        padding-bottom: 0;
+        width: 160px;
+    }
+
+    .circle-logo {
+        display: none;
+    }
 }
 
 @media (max-width: 500px) {
-    
+
 }
