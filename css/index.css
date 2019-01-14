@@ -211,6 +211,12 @@ h1, h2, h3, h4, h5 {
     .circle-logo {
         display: none;
     }
+    
+    .main-container {
+        border: 1px solid red;
+        margin-top: 400px;
+        margin-bottom: 20px;
+    }
 
     .info {
         width: 371px;
