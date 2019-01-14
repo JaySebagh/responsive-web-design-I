@@ -233,7 +233,8 @@ h1, h2, h3, h4, h5 {
     }
 
     .middle-img {
-        width: 730px;
+        width: 410px;
+        margin-top: 30px;
     }
 
     .info2 {
