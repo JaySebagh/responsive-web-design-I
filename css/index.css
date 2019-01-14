@@ -171,6 +171,13 @@ h1, h2, h3, h4, h5 {
     .circle-logo {
         display: none;
     }
+
+    .info {
+        width: 371px;
+        /* padding-left: 0;
+        padding-right: 0; */
+        margin-top: 50px;
+    }
 }
 
 @media (max-width: 500px) {
