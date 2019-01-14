@@ -235,10 +235,14 @@ h1, h2, h3, h4, h5 {
     .middle-img {
         width: 410px;
         margin-top: 30px;
+        margin-bottom: 30px;
     }
 
     .info2 {
-        width: 250px;
+        border: 0;
+        width: 450px;
+        padding-bottom: 0;
+        padding-top: 0;
     }
 
     .contact {
