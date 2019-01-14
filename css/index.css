@@ -174,11 +174,14 @@ h1, h2, h3, h4, h5 {
 
     .info {
         width: 371px;
-        margin-top: 50px;
     }
 
     .middle-img {
         width: 730px;
+    }
+
+    .info2 {
+        width: 250px;
     }
 }
 
