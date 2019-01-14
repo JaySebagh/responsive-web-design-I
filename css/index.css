@@ -213,13 +213,23 @@ h1, h2, h3, h4, h5 {
     }
     
     .main-container {
-        border: 1px solid red;
         margin-top: 400px;
-        margin-bottom: 20px;
+        border-bottom: 1px solid black;
+        width: 400px;
+        margin-left: 30px;
+        padding-bottom: 50px;
+    }
+
+    .features-about {
+        display: block;
     }
 
     .info {
-        width: 371px;
+        border: 0;
+        width: 447px;
+        margin-bottom: 0;
+        padding-bottom: 0;
+        padding-top: 0;
     }
 
     .middle-img {
